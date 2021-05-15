@@ -1,0 +1,7 @@
+{
+  "name": "praxis-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
